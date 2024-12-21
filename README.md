@@ -1,6 +1,3 @@
-Here’s the updated **`README.md`** file with the **Pinned Projects** section removed and an expanded **Tech Stack**:
-
-```markdown
 # Hi there 👋
 
 ---
@@ -68,7 +65,6 @@ Here’s the updated **`README.md`** file with the **Pinned Projects** section r
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishaal-sai-devisetty-9a1a35261/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishaalsai29)
 
 ---
 
@@ -76,6 +72,3 @@ Here’s the updated **`README.md`** file with the **Pinned Projects** section r
 
 - 📧 **Email**: vishaalsai29@gmail.com
 - 🌐 **Website/Portfolio**: [Link to Portfolio](#)
-```
-
-This version removes the **Pinned Projects** section and expands the **Tech Stack** to include more relevant technologies from your resume. Let me know if there are additional changes you'd like!
